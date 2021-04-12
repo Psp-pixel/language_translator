@@ -3,7 +3,7 @@ from ibm_watson import LanguageTranslatorV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
 url_lt = "https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/fc59df1e-28f2-4dac-86f1-a6ab4deba721"
-apikey_lt = "35vzXTWoohUJ2wf7X92eWG3X_lqF3LN2pyKb-vgrQGUz"
+apikey_lt = "API key is removed due to security pupose"
 
 version_lt = '2018-05-01'
 
